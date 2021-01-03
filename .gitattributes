@@ -8,3 +8,5 @@ go/book/go语言编程.pdf filter=lfs diff=lfs merge=lfs -text
 go/book/深入CGO编程.pdf filter=lfs diff=lfs merge=lfs -text
 python/book/从零开始学Python网络爬虫_PPT.rar filter=lfs diff=lfs merge=lfs -text
 python/book/从零开始学Python网络爬虫_源代码.rar filter=lfs diff=lfs merge=lfs -text
+cpp/book/C++PrimerPlus中文版第5版.pdf filter=lfs diff=lfs merge=lfs -text
+cpp/book/Directx9.0.pdf filter=lfs diff=lfs merge=lfs -text
