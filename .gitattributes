@@ -1,0 +1,10 @@
+cpp/book/cpp1x-tutorial.pdf filter=lfs diff=lfs merge=lfs -text
+cpp/book/现代[[:space:]]C++[[:space:]]教程：高速上手[[:space:]]C++11_14_17_20.pdf filter=lfs diff=lfs merge=lfs -text
+cpp/book/深入理解C++11：C++11新特性解析与应用.pdf filter=lfs diff=lfs merge=lfs -text
+go/book/Go语言实战.pdf filter=lfs diff=lfs merge=lfs -text
+go/book/Go语言程序设计-en.pdf filter=lfs diff=lfs merge=lfs -text
+go/book/Go语言核心编程.pdf filter=lfs diff=lfs merge=lfs -text
+go/book/go语言编程.pdf filter=lfs diff=lfs merge=lfs -text
+go/book/深入CGO编程.pdf filter=lfs diff=lfs merge=lfs -text
+python/book/从零开始学Python网络爬虫_PPT.rar filter=lfs diff=lfs merge=lfs -text
+python/book/从零开始学Python网络爬虫_源代码.rar filter=lfs diff=lfs merge=lfs -text
